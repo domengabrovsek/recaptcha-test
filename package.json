@@ -1,0 +1,23 @@
+{
+  "name": "recaptcha-test",
+  "version": "1.0.0",
+  "description": "Recaptcha test",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "serverless deploy --aws-profile admin-personal --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domengabrovsek/recaptcha-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domengabrovsek/recaptcha-test/issues"
+  },
+  "homepage": "https://github.com/domengabrovsek/recaptcha-test#readme",
+  "dependencies": {
+    "serverless": "^3.7.5"
+  }
+}
