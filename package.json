@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/domengabrovsek/recaptcha-test#readme",
   "dependencies": {
-    "serverless": "^3.7.5"
+    "serverless": "^4.42.0"
   }
 }
